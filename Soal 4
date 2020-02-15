@@ -1,0 +1,6 @@
+<form>
+  <h2>Hex-Color Code Validation</h2>
+  <label for="hex">Hex-color code</label> <br/>
+  <input id="#0000FF" type="Biru" pattern="^#+([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$" />
+  <output>Format Hex Code Benar!</output>
+  <input type="submit" value="submit" />
