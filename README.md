@@ -1,4 +1,7 @@
 # Arkademy
+
+Kegunaan JSON pada REST API
+
 - JSON sebagai format untuk bertukar data client dan server atau antar aplikasi. Contoh: RESTful API;
 
 - JSON sebagai tempat menyimpan data, contoh: Database Mongodb;
